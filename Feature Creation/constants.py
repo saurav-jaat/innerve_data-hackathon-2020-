@@ -2,7 +2,7 @@
 # CONSTANTS FOR THE OTHER FILES
 #--------------------------------------
 #
-# PATH TO DATA
+# path to data files
 DATA_PATH = '../../data_v2/'
 RANDOM_STATE = 28
 #

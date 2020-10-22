@@ -1,7 +1,7 @@
 # TryingSomething
 INNERVE DATA HACKATHON
 
-#Problem Description
+# Problem Description
 
 
 The following data was provided by the courtesy of yenta, which is a professional networking app launched by Japanese startup Atrae that uses artificial intelligence (AI) to optimize profile matching for its users.
@@ -35,7 +35,7 @@ Swipe right on interesting profiles. Start chatting if they like your profile to
 
 
 
- #Problem Statement
+ # Problem Statement
 
 The task of this competition is to predict the level of compatibility of two given users to improve the profile recommendation algorithm for yenta. For this purpose, we classify the level of compatibility between user A and user B into 4 categories: 
 
@@ -253,7 +253,7 @@ Continuous (No Nan value)
 
 
 
-Univariate Analysis
+# Univariate Analysis
 
 
 	User_ages.csv(Completed)
@@ -273,7 +273,7 @@ Univariate Analysis
 	Interaction_review_strength.csv (Completed)
 
 
- Bivariate Analysis
+#  Bivariate Analysis
 Load the train.csv and your allotted .csv then merge according to your thought process as if how can the matchmaking be affected by that particular feature or any derived feature that you have thought of.
 
 

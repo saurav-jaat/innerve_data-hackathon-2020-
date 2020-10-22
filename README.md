@@ -291,11 +291,11 @@ User_purposes.csv
 user_strenghts.csv
 
 
-MODEL MAKING
+# MODEL MAKING
 
 Made a decision tree classifier
 
-HYPER PARAMETER OPTIMIZATION
+# HYPER PARAMETER OPTIMIZATION
 
 Using validation set, We have optimized the dept of tree. 
 
